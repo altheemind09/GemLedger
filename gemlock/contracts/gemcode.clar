@@ -1,4 +1,4 @@
-;; Decentralized Rare Gemstone Registry - Assessment Stage
+;; Decentralized Rare Gemstone Registry - Assessment
 ;; A Clarity smart contract for gemstone authentication, valuation, and assessment
 
 ;; Constants
